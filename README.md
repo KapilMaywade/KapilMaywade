@@ -27,7 +27,7 @@ collaboration..</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KapilMaywade" alt="KapilMaywade" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at <a herf="https://kapilmaywade.github.io/">Kapil maywade(potfolio)</a>
+- 👨‍💻 All of my projects are available at [Kapil Maywade Portfolio](https://kapilmaywade.github.io/)
 
 - 💬 Ask me about **React,Redux ,JavaScript, HTML, CSS and Java**
 
